@@ -1,6 +1,4 @@
-Fusbulla. init. 
-
-Profesinal Song Writer!
+Fusbulla the real geeza
 
 <!---
 Fusbulla/Fusbulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
